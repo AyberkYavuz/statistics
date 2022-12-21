@@ -106,6 +106,10 @@ The standard error is a statistical term that measures the accuracy with which a
 
 **margin of error:** The margin of error (MOE) for a survey tells you how near you can expect the survey results to be to the correct population value. For example, a survey indicates that 72% of respondents favor Brand A over Brand B with a 3% margin of error. In this case, the actual population percentage that prefers Brand A likely falls within the range of 72% ± 3%, or 69 – 75%.
 
+**standard error and margin of error relation**
+
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/standard_error_and_margin_of_error.png)
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
