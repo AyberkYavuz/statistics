@@ -62,6 +62,20 @@ This method is helpful if you have a few values on the extreme ends of your data
 
 Your outliers are any values greater than your upper fence or less than your lower fence.
 
+Try to run [outlier_detection.py](https://github.com/AyberkYavuz/statistics/blob/main/outlier_detection.py) to detect outliers of the given numbers.
+
+**Example Run**
+```bash
+enter numbers: 25 37 24	28	35	22	31	53	41	64	29
+Calculating Q1, Q2, IQR
+Calculating upper fence
+Calculating lower fence
+Finding larger extreme values
+larger extreme values: [64]
+Finding smaller extreme values
+smaller extreme values: []
+```
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
