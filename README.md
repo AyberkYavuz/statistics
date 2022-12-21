@@ -48,3 +48,22 @@ standard_deviation of numbers: 3.7202150475476548
 **outlier detection**
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/outlier_detection.png?raw=true)
+
+This method is helpful if you have a few values on the extreme ends of your dataset, but you aren’t sure whether any of them might count as outliers.
+
+**Interquartile range method**
+
+1. Sort your data from low to high
+2. Identify the first quartile (Q1), the median, and the third quartile (Q3).
+3. Calculate your IQR = Q3 – Q1
+4. Calculate your upper fence = Q3 + (1.5 * IQR)
+5. Calculate your lower fence = Q1 – (1.5 * IQR)
+6. Use your fences to highlight any outliers, all values that fall outside your fences.
+
+Your outliers are any values greater than your upper fence or less than your lower fence.
+
+Resources
+
+https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
+
+https://www.scribbr.com/statistics/outliers/
