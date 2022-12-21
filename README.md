@@ -42,3 +42,7 @@ standard_deviation of numbers: 3.7202150475476548
 **quantitative data:** numeric data.
 
 **qualitative data:** categorical data.
+
+**outlier:** It is either much larger or much smaller than other values in the collection.
+
+
