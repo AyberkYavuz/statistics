@@ -66,7 +66,7 @@ Try to run [outlier_detection.py](https://github.com/AyberkYavuz/statistics/blob
 
 **Example Run**
 ```bash
-enter numbers: 25 37 24	28 35 22 31	53 41 64 29
+enter numbers: 25 37 24	28 35 22 31 53 41 64 29
 Calculating Q1, Q2, IQR
 Calculating upper fence
 Calculating lower fence
