@@ -84,6 +84,10 @@ smaller extreme values: []
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/box_plot.png)
 
+**symmetric distribution**
+
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/symmetric_distribution.png)
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
