@@ -76,7 +76,6 @@ Finding smaller extreme values
 smaller extreme values: []
 ```
 
-![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/5_number_summary.png?raw=true)
 
 Resources
 
