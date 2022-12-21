@@ -13,4 +13,14 @@ This repository is for containing sources codes of statistical concepts like out
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/population_variance_formula_image.png?raw=true)
 
+Try to run [population_variance.py](https://github.com/AyberkYavuz/statistics/blob/main/population_variance.py) to calculate the population variance of the given numbers.
+
+**Example Run**
+```bash
+enter numbers: 2 7 3 12 9
+Calculating variance of numbers
+mean of numbers: 6.6
+variance of numbers: 13.84
+```
+
 **standard deviation:** It is simply the square root of the variance. Standard deviation is useful when comparing the spread of two separate data sets that have approximately the same mean. The data set with the smaller standard deviation has a narrower spread of measurements around the mean and therefore usually has comparatively fewer high or low values. An item selected at random from a data set whose standard deviation is low has a better chance of being close to the mean than an item from a data set whose standard deviation is higher. However, standard deviation is affected by extreme values. A single extreme value can have a big impact on the standard deviation.
