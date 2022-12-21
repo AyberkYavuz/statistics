@@ -45,4 +45,6 @@ standard_deviation of numbers: 3.7202150475476548
 
 **outlier:** It is either much larger or much smaller than other values in the collection.
 
+**outlier detection**
 
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/outlier_detection.png?raw=true)
