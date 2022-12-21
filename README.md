@@ -92,6 +92,10 @@ smaller extreme values: []
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/mean_meadian_normal_distribution.png)
 
+**bell curve distribution**
+
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/bell_curve_distribution.png)
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
