@@ -1,4 +1,4 @@
-
+import pandas as pd
 
 def calculate_population_variance(numbers: list):
     mean = sum(numbers) / len(numbers)
@@ -10,4 +10,22 @@ def calculate_population_variance(numbers: list):
         sum_square += square
     variance = sum_square / len(numbers)
     return variance
+
+
+def calculate_Q1_Q2_IQR(numbers: list):
+    dataframe = pd.DataFrame({'numbers': numbers})
+    Q1 = dataframe['numbers'].quantile(0.25)
+    Q3 = dataframe['numbers'].quantile(0.75)
+    IQR = Q3 - Q1
+    return Q1, Q3, IQR
+
+
+def calculate_upper_fence(Q3, IQR):
+    uppper_fence = Q3 + (1.5 * IQR)
+    return uppper_fence
+
+
+def calculate_lower_fence(Q1, IQR):
+    lower_fence = Q1 - (1.5 * IQR)
+    return lower_fence
 
