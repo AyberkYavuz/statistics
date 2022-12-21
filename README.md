@@ -80,6 +80,10 @@ smaller extreme values: []
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/5_number_summary.png)
 
+**box plot**
+
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/box_plot.png)
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
