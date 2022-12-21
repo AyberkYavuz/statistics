@@ -24,3 +24,13 @@ variance of numbers: 13.84
 ```
 
 **standard deviation:** It is simply the square root of the variance. Standard deviation is useful when comparing the spread of two separate data sets that have approximately the same mean. The data set with the smaller standard deviation has a narrower spread of measurements around the mean and therefore usually has comparatively fewer high or low values. An item selected at random from a data set whose standard deviation is low has a better chance of being close to the mean than an item from a data set whose standard deviation is higher. However, standard deviation is affected by extreme values. A single extreme value can have a big impact on the standard deviation.
+
+Try to run [standard_deviation.py](https://github.com/AyberkYavuz/statistics/blob/main/standard_deviation.py) to calculate the standard deviation of the given numbers.
+
+**Example Run**
+```bash
+enter numbers: 2 7 3 12 9
+Calculating standard deviation of numbers
+mean of numbers: 6.6
+standard_deviation of numbers: 3.7202150475476548
+```
