@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def calculate_population_variance(numbers: list):
     mean = sum(numbers) / len(numbers)
     sum_square = 0.0
