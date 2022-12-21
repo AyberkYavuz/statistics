@@ -88,6 +88,10 @@ smaller extreme values: []
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/symmetric_distribution.png)
 
+**the relationship between mean and median in normal distribution**
+
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/mean_meadian_normal_distribution.png)
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
