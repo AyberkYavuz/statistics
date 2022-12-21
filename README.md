@@ -34,3 +34,11 @@ Calculating standard deviation of numbers
 mean of numbers: 6.6
 standard_deviation of numbers: 3.7202150475476548
 ```
+
+**descriptive statistics:** provides exact and accurate information.
+
+**inferential statistics:** It is used to draw conclusions about a population using some sample data.
+
+**quantitative data:** numeric data.
+
+**qualitative data:** categorical data.
