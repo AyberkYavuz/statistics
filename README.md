@@ -96,8 +96,18 @@ smaller extreme values: []
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/bell_curve_distribution.png)
 
+**standard error:** The standard error (SE) of a statistic is the approximate standard deviation of a statistical sample population.
+
+The standard error is a statistical term that measures the accuracy with which a sample distribution represents a population by using standard deviation. In statistics, a sample mean deviates from the actual mean of a population; this deviation is the standard error of the mean.
+
+* The standard error (SE) is the approximate standard deviation of a statistical sample population.
+* The standard error describes the variation between the calculated mean of the population and one which is considered known, or accepted as accurate.
+* The more data points involved in the calculations of the mean, the smaller the standard error tends to be.
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
 
 https://www.scribbr.com/statistics/outliers/
+
+https://www.investopedia.com/terms/s/standard-error.asp
