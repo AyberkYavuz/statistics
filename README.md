@@ -174,17 +174,21 @@ Calculating correlation
 correlation: 0.6357706822682092
 ```
 
-*correlation coefficients*
+**correlation coefficients**
 
 Correlation coefficients are used to measure how strong a relationship is between two variables. There are several types of correlation coefficient, but the most popular is Pearson’s. Pearson’s correlation (also called Pearson’s R) is a correlation coefficient commonly used in linear regression.
 
-*advantages of correlation*
+**advantages of correlation**
 
 * Covariance can take any numbers; correlation is limited to: -1 to 1.
     * Values always range from -1 for a perfectly inverse, or negative, relationship to 1 for a perfectly positive correlation. Values at, or close to, zero indicate no linear relationship or a very weak correlation.
 * Correlation is more useful for determining the relationship strength.
 * Correlation does not have units. Covariance always has units.
 * Correlation isn't affected by changes in the center.
+
+**disadvantage of the correlation**
+
+* It only measures linear relationhips between X and Y and for any relationship to exist, any change in X has to have a constant proportional change in Y. If the relationship is not linear then the result is inaccurate. 
 
 **Resources**
 
