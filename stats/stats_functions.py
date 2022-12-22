@@ -1,4 +1,5 @@
 import pandas as pd
+from math import sqrt
 
 
 def calculate_population_variance(numbers: list):
@@ -11,6 +12,12 @@ def calculate_population_variance(numbers: list):
         sum_square += square
     variance = sum_square / len(numbers)
     return variance
+
+
+def calculate_standard_deviation(numbers: list):
+    variance = calculate_population_variance(numbers)
+    standard_deviation = sqrt(variance)
+    return standard_deviation
 
 
 def calculate_Q1_Q2_IQR(numbers: list):
