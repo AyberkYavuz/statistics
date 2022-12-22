@@ -135,6 +135,8 @@ These are:
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/negative_covariance.png)
 
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/zero_covariance.png)
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
