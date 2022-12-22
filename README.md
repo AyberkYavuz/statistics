@@ -127,6 +127,12 @@ It is the measure of how much two variables change together.
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/covariance_formula.png)
 
+There are 3 types of covariance.
+
+These are:
+
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/positive_covariance.png)
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
