@@ -137,6 +137,16 @@ These are:
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/zero_covariance.png)
 
+Try to run [covariance.py](https://github.com/AyberkYavuz/statistics/blob/main/covariance.py) to calculate the covariance of x and y.
+
+**Example Run**
+```bash
+enter x list elements: 8 10 12 14
+enter y list elements: 2.1 2.5 3.6 4.0
+Calculating covariance
+covariance: 2.2666666666666666
+```
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
