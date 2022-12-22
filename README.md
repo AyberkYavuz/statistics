@@ -155,7 +155,26 @@ covariance: 2.2666666666666666
     * Fix: Corr(x,y) = Cov(x,y) / (std_x * std_y)
         * std_x: standard deviation of x
         * std_y: standard deviation of y
-Resources
+
+Try to run [correlation.py](https://github.com/AyberkYavuz/statistics/blob/main/correlation.py) to calculate the correlation of x and y.
+
+**Example Run**
+```bash
+enter x list elements: 43 21 25 42 57 59
+enter y list elements: 99 65 79 75 87 81
+Calculating covariance
+covariance: 95.6
+Calculating standard deviation of x
+mean of numbers: 41.166666666666664
+standard_deviation_x: 14.380735570740306
+Calculating standard deviation of y
+mean of numbers: 81.0
+standard_deviation_y: 10.456258094238748
+Calculating correlation
+correlation: 0.6357706822682092
+```
+
+**Resources**
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
 
