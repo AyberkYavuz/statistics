@@ -121,6 +121,10 @@ df = degrees of freedom
 
 n = sample size
 
+**covariance:** It is the measure of how much two variables change together.
+
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/covariance_formula.png)
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
@@ -130,3 +134,5 @@ https://www.scribbr.com/statistics/outliers/
 https://www.investopedia.com/terms/s/standard-error.asp
 
 https://www.investopedia.com/terms/d/degrees-of-freedom.asp
+
+https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/covariance/#definition
