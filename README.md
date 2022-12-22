@@ -121,7 +121,9 @@ df = degrees of freedom
 
 n = sample size
 
-**covariance:** It is the measure of how much two variables change together.
+**covariance** 
+
+It is the measure of how much two variables change together.
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/covariance_formula.png)
 
