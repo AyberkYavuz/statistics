@@ -30,3 +30,21 @@ def calculate_lower_fence(Q1, IQR):
     lower_fence = Q1 - (1.5 * IQR)
     return lower_fence
 
+
+def calculate_covariance(x: list, y: list):
+    if len(x) != len(y):
+        raise ArithmeticError('Length of x must be equal to length of y.')
+
+    mean_x = sum(x) / len(x)
+    mean_y = sum(y) / len(y)
+
+    sum_product = 0.0
+    for i in range(len(x)):
+        difference_x = x[i] - mean_x
+        difference_y = y[i] - mean_y
+        product = difference_x * difference_y
+        sum_product += product
+
+    covariance = sum_product / (len(x) - 1)
+    return covariance
+
