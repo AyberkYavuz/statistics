@@ -110,6 +110,17 @@ The standard error is a statistical term that measures the accuracy with which a
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/standard_error_and_margin_of_error.png)
 
+**degrees of freedom**
+
+* Degrees of freedom refers to the maximum number of logically independent values, which are values that have the freedom to vary, in the data sample.
+* Degrees of freedom is calculated by subtracting one from the number of items within the data sample.
+
+df = n -1
+
+df = degrees of freedom
+
+n = sample size
+
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
@@ -117,3 +128,5 @@ https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
 https://www.scribbr.com/statistics/outliers/
 
 https://www.investopedia.com/terms/s/standard-error.asp
+
+https://www.investopedia.com/terms/d/degrees-of-freedom.asp
