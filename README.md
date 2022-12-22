@@ -147,6 +147,14 @@ Calculating covariance
 covariance: 2.2666666666666666
 ```
 
+* A large covariance can mean a strong relationship between variables.
+* You can't compare variances over data sets (variables) with different scales like pounds and inches.
+* The wide range of results makes it hard to interpret.
+    * For example; your variables could return a value of 3 or 3.000.
+    * The larger the x and y values, the larger the covariance.
+    * Fix: Corr(x,y) = Cov(x,y) / (std_x * std_y)
+        * std_x: standard deviation of x
+        * std_y: standard deviation of y
 Resources
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
@@ -158,3 +166,5 @@ https://www.investopedia.com/terms/s/standard-error.asp
 https://www.investopedia.com/terms/d/degrees-of-freedom.asp
 
 https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/covariance/#definition
+
+https://study.com/academy/lesson/covariance-correlation-equations-examples.html#:~:text=The%20correlation%20coefficient%20can%20be%20calculated%20as%20follows%3A,%CF%83%20x%20%E2%88%97%20%CF%83%20y%20)
