@@ -254,6 +254,8 @@ So, we can reject the null hypothesis. In other words, it’s highly likely that
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/right_skewed_distribution.png)
 
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/left_right_skewed_distribution.png)
+
 **Resources**
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
