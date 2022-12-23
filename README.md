@@ -250,6 +250,8 @@ What this critical value means in a one tailed t test, is that we would expect m
 
 So, we can reject the null hypothesis. In other words, it’s highly likely that the mean sale is greater. The one sample t test has told us that sales training was probably a success.
 
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/left_skewed_distribution.png)
+
 **Resources**
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
