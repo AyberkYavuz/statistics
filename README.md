@@ -204,6 +204,24 @@ Assumptions of the test (your data should meet these requirements for the test t
 * Data is collected randomly. For example, with simple random sampling.
 * The data is approximately normally distributed.
 
+**Example question:** your company wants to improve sales. Past sales data indicate that the average sale was $100 per transaction. After training your sales force, recent sales data (taken from a sample of 25 salesmen) indicates an average sale of $130, with a standard deviation of $15. Did the training work? Test your hypothesis at a 5% alpha level.
+
+Step 1: Write your null hypothesis statement (How to state a null hypothesis). The accepted hypothesis is that there is no difference in sales, so:
+H0: μ = $100.
+
+Step 2: Write your alternate hypothesis. This is the one you’re testing in the one sample t test. You think that there is a difference (that the mean sales increased), so:
+H1: μ > $100.
+
+Step 3: Identify the following pieces of information you’ll need to calculate the test statistic. The question should give you these items:
+
+1. The sample mean(x̄). This is given in the question as $130.
+2. The population mean(μ). Given as $100 (from past data).
+3. The sample standard deviation(s) = $15.
+4. Number of observations(n) = 25.
+
+Step 4: Insert the items from above into the t score formula.
+
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/t_score_formula.png)
 
 
 **Resources**
