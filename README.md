@@ -9,6 +9,17 @@ This repository is for containing sources codes of statistical concepts like out
 
 **Median:** The median is **the value in the middle of a data set**, meaning that 50% of data points have a value smaller or equal to the median and 50% of data points have a value higher or equal to the median.
 
+**Mode**
+
+* In statistics, the mode is the most commonly observed value in a set of data.
+* For the normal distribution, the mode is also the same value as the mean and median.
+* In many cases, the modal value will differ from the average value in the data.
+
+For example; in the following list of numbers, **16** is the mode since it appears more times in the set than any other number:
+
+3, 3, 6, 9, **16, 16, 16,** 27, 27, 37, 48
+
+
 **Variance:** It is a statistical measurement of the spread between numbers in a data set. More specifically, variance measures how far each number in the set is from the mean (average), and thus from every other number in the set. Variance is often depicted by this symbol: σ2.
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/sample_variance_formula_image.png?raw=true)
@@ -259,6 +270,8 @@ So, we can reject the null hypothesis. In other words, it’s highly likely that
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/left_right_skewed_distribution.png)
 
 **Resources**
+
+https://www.investopedia.com/terms/m/mode.asp
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
 
