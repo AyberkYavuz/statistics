@@ -238,6 +238,14 @@ Take a look at [t-distribution-table](https://www.statisticshowto.com/tables/t-d
 Look up 24 degrees of freedom in the left column and 0.05 in the top row. 
 The intersection is **1.711**. This is your one-tailed **critical t-value**.
 
+What this critical value means in a one tailed t test, is that we would expect most values to fall under 1.711. If our calculated t-value (from Step 4) falls within this range, the null hypothesis is likely true.
+
+**Step 6:** Compare your t score with one-tailed critical t-value.
+
+10 > 1.711
+
+So, we can reject the null hypothesis. In other words, it’s highly likely that the mean sale is greater. The one sample t test has told us that sales training was probably a success.
+
 **Resources**
 
 https://www.youtube.com/watch?v=LMz2ouNcXUQ&ab_channel=Intellipaat
