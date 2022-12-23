@@ -194,6 +194,10 @@ Correlation coefficients are used to measure how strong a relationship is betwee
 
 The significance level or alpha level is the probability of making the wrong decision when the null hypothesis is true. Alpha levels (sometimes just called “significance levels”) are used in hypothesis tests. Usually, these tests are run with an alpha level of .05 (5%), but other levels commonly used are .01 and .10.
 
+**alternative hypothesis**
+
+The alternative hypothesis (denoted by **H1**) is the statement that must be true if the null hypothesis (**H0**) is false.
+
 **One Sample T Test**
 
 The one sample t test compares the mean of your sample data to a known value. For example, you might want to know how your sample mean compares to the population mean. You should run a one sample t test when you don’t know the population standard deviation or you have a small sample size. For a full rundown on which test to use, see: T-score vs. Z-Score.
