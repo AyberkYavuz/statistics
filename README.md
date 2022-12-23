@@ -190,6 +190,10 @@ Correlation coefficients are used to measure how strong a relationship is betwee
 
 * It only measures linear relationhips between X and Y and for any relationship to exist, any change in X has to have a constant proportional change in Y. If the relationship is not linear then the result is inaccurate. 
 
+**alpha level (significance level)**
+
+The significance level or alpha level is the probability of making the wrong decision when the null hypothesis is true. Alpha levels (sometimes just called “significance levels”) are used in hypothesis tests. Usually, these tests are run with an alpha level of .05 (5%), but other levels commonly used are .01 and .10.
+
 **One Sample T Test**
 
 The one sample t test compares the mean of your sample data to a known value. For example, you might want to know how your sample mean compares to the population mean. You should run a one sample t test when you don’t know the population standard deviation or you have a small sample size. For a full rundown on which test to use, see: T-score vs. Z-Score.
@@ -215,5 +219,7 @@ https://www.investopedia.com/terms/d/degrees-of-freedom.asp
 https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/covariance/#definition
 
 https://study.com/academy/lesson/covariance-correlation-equations-examples.html#:~:text=The%20correlation%20coefficient%20can%20be%20calculated%20as%20follows%3A,%CF%83%20x%20%E2%88%97%20%CF%83%20y%20)
+
+https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/what-is-an-alpha-level/
 
 https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/one-sample-t-test/
