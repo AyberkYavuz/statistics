@@ -317,9 +317,9 @@ Tails are the tapering ends on either side of a distribution. They represent the
 
 * Kurtosis describes the "fatness" of the tails found in probability distributions.
 * There are three kurtosis categories:
-    * Mesokurtic (normal), kurtosis = 3.0
-    * Platykurtic (less than normal), kurtosis < 3.0 
-    * Leptokurtic (more than normal), kurtosis > 3.0
+    * Mesokurtic: normal, kurtosis = 3.0
+    * Platykurtic: less than normal, kurtosis < 3.0 
+    * Leptokurtic: more than normal, kurtosis > 3.0
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/kurtosis_types.png)
 
