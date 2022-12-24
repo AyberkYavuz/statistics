@@ -316,7 +316,10 @@ Kurtosis is a measure of the tailedness of a distribution. Tailedness is how oft
 Tails are the tapering ends on either side of a distribution. They represent the probability or frequency of values that are extremely high or low compared to the mean. In other words, tails represent how often outliers occur.
 
 * Kurtosis describes the "fatness" of the tails found in probability distributions.
-* There are three kurtosis categories—mesokurtic (normal), platykurtic (less than normal), and leptokurtic (more than normal).
+* There are three kurtosis categories:
+    * Mesokurtic (normal) 
+    * Platykurtic (less than normal) 
+    * Leptokurtic (more than normal).
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/kurtosis_types.png)
 
