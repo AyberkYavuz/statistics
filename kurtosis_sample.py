@@ -4,9 +4,10 @@ from scipy.stats import kurtosis
 data = [float(x) for x in input("enter data points: ").split()]
 
 print("Calculating Kurtosis for Sample")
-kurtosis = calculate_kurtosis_sample(data)
+kurtosis_result = calculate_kurtosis_sample(data)
 
-print("kurtosis: " + str(kurtosis))
+print("kurtosis: " + str(kurtosis_result))
 
-print("scipy.stats kurtosis function result: " + str(kurtosis(data)))
+scipy_kurtosis = kurtosis(data)
+print("scipy.stats kurtosis function result: " + str(scipy_kurtosis))
 
