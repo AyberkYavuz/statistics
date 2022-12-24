@@ -309,6 +309,17 @@ Online surveys exclude people who don’t have internet access. Previous researc
 
 Depending on your research objective, this may impact your results. If your research is on online shopping habits, opting for an online survey is a legitimate choice. If however, you are interested in people’s voting intentions, running an online survey excludes a significant part of the population, leading to undercoverage bias.
 
+**Kurtosis**
+
+Kurtosis is a measure of the tailedness of a distribution. Tailedness is how often outliers occur. Excess kurtosis is the tailedness of a distribution relative to a normal distribution.
+
+Tails are the tapering ends on either side of a distribution. They represent the probability or frequency of values that are extremely high or low compared to the mean. In other words, tails represent how often outliers occur.
+
+* Kurtosis describes the "fatness" of the tails found in probability distributions.
+* There are three kurtosis categories—mesokurtic (normal), platykurtic (less than normal), and leptokurtic (more than normal).
+
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/kurtosis_types.png)
+
 **Resources**
 
 https://www.investopedia.com/terms/m/mode.asp
@@ -334,3 +345,7 @@ https://www.investopedia.com/terms/s/sample_selection_basis.asp#:~:text=What%20I
 https://www.scribbr.com/research-bias/survivorship-bias/#:~:text=Survivorship%20bias%20occurs%20when%20researchers,a%20subset%20of%20the%20population.
 
 https://www.scribbr.com/research-bias/undercoverage-bias/#:~:text=Revised%20on%20November%2026%2C%202022,this%20type%20of%20research%20bias.
+
+https://www.scribbr.com/statistics/kurtosis/
+
+https://www.investopedia.com/terms/k/kurtosis.asp
