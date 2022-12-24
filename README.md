@@ -294,6 +294,17 @@ Survivorship bias occurs when researchers focus on individuals, groups, or cases
 A hospital is conducting research on trauma patients admitted to the ER, seeking to find out which procedures work best. However, researchers can only begin their studies if a patient is stable enough to give consent. Because the trial excludes everyone who didn’t survive their injuries or is too sick to consent, survivorship bias may occur.
 In addition to being a common form of research bias, survivorship bias can also lead to poor decision-making in other areas, such as finance, medicine, and business.
 
+**Under-Coverage Bias**
+
+Undercoverage bias occurs when a part of the population is excluded from your sample. As a result, the sample is no longer representative of the target population. Non-probability sampling designs are susceptible to this type of research bias.
+Undercoverage is a type of selection bias.
+
+**Undercoverage bias example:**
+
+Online surveys exclude people who don’t have internet access. Previous research shows that internet access also relates to demographics like socioeconomic status and age.
+
+Depending on your research objective, this may impact your results. If your research is on online shopping habits, opting for an online survey is a legitimate choice. If however, you are interested in people’s voting intentions, running an online survey excludes a significant part of the population, leading to undercoverage bias.
+
 **Resources**
 
 https://www.investopedia.com/terms/m/mode.asp
@@ -317,3 +328,5 @@ https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/on
 https://www.investopedia.com/terms/s/sample_selection_basis.asp#:~:text=What%20Is%20Sample%20Selection%20Bias,due%20to%20a%20particular%20attribute.
 
 https://www.scribbr.com/research-bias/survivorship-bias/#:~:text=Survivorship%20bias%20occurs%20when%20researchers,a%20subset%20of%20the%20population.
+
+https://www.scribbr.com/research-bias/undercoverage-bias/#:~:text=Revised%20on%20November%2026%2C%202022,this%20type%20of%20research%20bias.
