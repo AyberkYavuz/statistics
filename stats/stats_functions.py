@@ -55,3 +55,33 @@ def calculate_covariance(x: list, y: list):
     covariance = sum_product / (len(x) - 1)
     return covariance
 
+
+def calculate_population_kurtosis(data: list):
+    n = len(data)
+    mean = sum(data)/n
+    sigma = 0
+    for i in range(n):
+        sigma += (data[i] - mean)**2
+    sigma = sigma/n
+    kurt = 0
+    for i in range(n):
+        kurt += (data[i] - mean)**4
+    kurt = kurt/n
+    kurt = kurt/(sigma**2)
+    return kurt
+
+
+def calculate_kurtosis_sample(data: list):
+    """Calculates the sample kurtosis of a dataset using a for loop.
+    Important: It's important to note that a sample size should be much larger than this; we are using six numbers to
+    reduce the calculation steps. A good rule of thumb is to use 30% of your data for populations under 1,000.
+    For larger populations, you can use 10%.
+    Args:
+      data (list): List of numerical values.
+    Returns:
+      float: The sample kurtosis of the dataset.
+    """
+    kurt = calculate_population_kurtosis(data)
+    kurt = kurt - 3
+    return kurt
+
