@@ -284,6 +284,16 @@ In statistics, quality assurance, and survey methodology, sampling is the select
 
 Sample selection bias is a type of bias caused by choosing non-random data for statistical analysis. The bias exists due to a flaw in the sample selection process, where a subset of the data is systematically excluded due to a particular attribute. 
 
+
+**Survivorship Bias**
+
+Survivorship bias occurs when researchers focus on individuals, groups, or cases that have passed some sort of selection process while ignoring those who did not. Survivorship bias can lead researchers to form incorrect conclusions due to only studying a subset of the population. Survivorship bias is a type of selection bias.
+
+**Survivorship bias example:**
+
+A hospital is conducting research on trauma patients admitted to the ER, seeking to find out which procedures work best. However, researchers can only begin their studies if a patient is stable enough to give consent. Because the trial excludes everyone who didn’t survive their injuries or is too sick to consent, survivorship bias may occur.
+In addition to being a common form of research bias, survivorship bias can also lead to poor decision-making in other areas, such as finance, medicine, and business.
+
 **Resources**
 
 https://www.investopedia.com/terms/m/mode.asp
@@ -305,3 +315,5 @@ https://www.statisticshowto.com/probability-and-statistics/statistics-definition
 https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/one-sample-t-test/
 
 https://www.investopedia.com/terms/s/sample_selection_basis.asp#:~:text=What%20Is%20Sample%20Selection%20Bias,due%20to%20a%20particular%20attribute.
+
+https://www.scribbr.com/research-bias/survivorship-bias/#:~:text=Survivorship%20bias%20occurs%20when%20researchers,a%20subset%20of%20the%20population.
