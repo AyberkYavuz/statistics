@@ -323,6 +323,8 @@ Tails are the tapering ends on either side of a distribution. They represent the
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/kurtosis_types.png)
 
+![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/kurtosis_table.png)
+
 **Resources**
 
 https://www.investopedia.com/terms/m/mode.asp
