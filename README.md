@@ -336,6 +336,7 @@ Try to run [kurtosis_sample.py](https://github.com/AyberkYavuz/statistics/blob/m
 enter data points: 27 13 17 57 113 25
 Calculating Kurtosis for Sample
 kurtosis: 0.050521368485712426
+scipy.stats kurtosis function result: 0.050521368485712426
 ```
 
 **Resources**
