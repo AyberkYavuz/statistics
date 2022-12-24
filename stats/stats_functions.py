@@ -85,3 +85,32 @@ def calculate_kurtosis_sample(data: list):
     kurt = kurt - 3
     return kurt
 
+
+def calculate_kurtosis_sample_v2(data: list):
+    n = len(data)
+    mean = sum(data) / n
+
+    first_term = n * (n + 1) * (n - 1)
+    second_term = (n - 1) * (n - 3)
+
+    third_term = 0.0
+    forth_term = 0.0
+    for i in range(n):
+        third_term += (data[i] - mean) ** 4
+        forth_term += (data[i] - mean) ** 2
+
+    forth_term = forth_term ** 2
+
+    fifth_term = (n - 1) ** 2
+
+    sixth_term = (n - 2) * (n - 3)
+
+    part1 = (first_term / second_term) * (third_term / forth_term)
+
+    part2 = 3 * (fifth_term / sixth_term)
+
+    kurtosis = part1 - part2
+
+    return kurtosis
+
+
