@@ -274,6 +274,14 @@ So, we can reject the null hypothesis. In other words, it’s highly likely that
 
 In statistics, quality assurance, and survey methodology, sampling is the selection of a subset of individuals from within a statistical population to estimate characteristics of the whole population.
 
+**Types of Biases in Sampling**
+
+* Selection Bias
+* Survivorship Bias
+* Under Coverage Bias
+
+
+
 **Resources**
 
 https://www.investopedia.com/terms/m/mode.asp
