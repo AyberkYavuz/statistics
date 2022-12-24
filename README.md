@@ -269,6 +269,11 @@ So, we can reject the null hypothesis. In other words, it’s highly likely that
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/left_right_skewed_distribution.png)
 
+
+**Sampling**
+
+In statistics, quality assurance, and survey methodology, sampling is the selection of a subset of individuals from within a statistical population to estimate characteristics of the whole population.
+
 **Resources**
 
 https://www.investopedia.com/terms/m/mode.asp
