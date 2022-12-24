@@ -280,7 +280,9 @@ In statistics, quality assurance, and survey methodology, sampling is the select
 * Survivorship Bias
 * Under Coverage Bias
 
+**Selection Bias**
 
+Sample selection bias is a type of bias caused by choosing non-random data for statistical analysis. The bias exists due to a flaw in the sample selection process, where a subset of the data is systematically excluded due to a particular attribute. 
 
 **Resources**
 
@@ -301,3 +303,5 @@ https://study.com/academy/lesson/covariance-correlation-equations-examples.html#
 https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/what-is-an-alpha-level/
 
 https://www.statisticshowto.com/probability-and-statistics/hypothesis-testing/one-sample-t-test/
+
+https://www.investopedia.com/terms/s/sample_selection_basis.asp#:~:text=What%20Is%20Sample%20Selection%20Bias,due%20to%20a%20particular%20attribute.
