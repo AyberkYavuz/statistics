@@ -325,6 +325,15 @@ Tails are the tapering ends on either side of a distribution. They represent the
 
 ![alt text](https://github.com/AyberkYavuz/statistics/blob/main/imgs/kurtosis_table.png)
 
+Try to run [kurtosis_sample.py](https://github.com/AyberkYavuz/statistics/blob/main/kurtosis_sample.py) to calculate the kurtosis of the given sample.
+
+**Example Run**
+```bash
+enter data points: 27 13 17 57 113 25
+Calculating Kurtosis for Sample
+kurtosis: 0.050521368485712426
+```
+
 **Resources**
 
 https://www.investopedia.com/terms/m/mode.asp
